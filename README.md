@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I’m Mainak Mustafi
+- 👀 I’m trained as a ML researcher/Data Scientist. I have extensive experience with ML architecture design and engineering.
+- 🌱 I’m currently working on how to study molecular mechanisms of prostate cancer
+- 📫 How to reach me @LinkedIn: https://www.linkedin.com/in/mainak-mustafi/
 
 <!--
 **mainakm7/mainakm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
