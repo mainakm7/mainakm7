@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mainak Mustafi
-- 👀 I’m trained as a ML engineer/Data Scientist and a Python backend developer. I have extensive experience with ML architecture design and engineering and also cloud based platforms.
-- 🌱 I’m currently working on Python based app development in several ML areas including NLP.
+- 👀 I’m trained as a Bioinformatics and a Machine Learning Scientist. I have extensive experience with Pipeline development, ML architecture design & engineering and also cloud based platforms.
+- 🌱 I’m currently working on Python based Biotech-space app development in several ML areas.
 - 📫 How to reach me @LinkedIn: https://www.linkedin.com/in/mainak-mustafi/
 
 <!--
