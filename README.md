@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mainak Mustafi
-- 👀 I’m trained as a Bioinformatics and a Machine Learning Scientist. I have extensive experience with Pipeline development, ML architecture design & engineering and also cloud based platforms.
-- 🌱 I’m currently working on Python based Biotech-space app development in several ML areas.
+- 👀 I’m trained as a Machine Learning Scientist specializing in Computer Vision and NLP with bioinformatics background as well. I have extensive experience with Pipeline development, ML architecture design & engineering and also cloud based platforms.
+- 🌱 I’m currently working on Python/C++ based Biotech-space app development in several ML areas.
 - 📫 How to reach me @LinkedIn: https://www.linkedin.com/in/mainak-mustafi/
 
 <!--
